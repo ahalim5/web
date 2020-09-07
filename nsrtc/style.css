@@ -1,0 +1,250 @@
+.header-section{
+	width:100%;
+	border:1px solid #2314;
+	overflow:hidden;
+}
+.header-section marquee{
+	width:80%;
+}
+.logo-section img{
+	height:100px;
+	width:100px;
+	float:left;
+}
+.heading-section img{
+	height:60px;
+	width:700px;
+	margin-left:150px;
+}
+.heading-section h3{
+	font-family:algerian; 
+	font-size:20px; 
+	text-align:center;
+	color:blue;
+	margin-top:10px;
+}
+.menu{
+	width:100%;
+	border:1px solid black;
+	background-color:#333;
+}
+
+
+.menu ul{
+	list-style:none;
+	overflow:hidden;
+	padding:0;
+	margin:0;
+	}
+	
+.menu ul li{
+	float:left;
+	}
+	
+.menu ul li a{
+	display:block;
+	text-decoration:none;
+	color:white;
+	text-align:center;
+	padding:14px 15px;
+}
+
+.menu ul li a:hover{
+	background-color:green;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.breking-news{
+	margin-top: 5px;
+	background: #0C79E7;
+	padding: 10px 0;
+}
+.slider{
+	width:100%;
+	border:1px solid #2314;
+}
+.slider img{
+	height:300px;
+	width:60%;
+	display:block;
+	margin:0 auto;
+}
+.sidebar-1{
+	width:19.8%;
+	height:300px;
+	margin-top:-300px;
+	border:1px solid #2314;
+	float:left;
+}
+.sidebar-1 img{
+	height:120px;
+	width:60%;
+}
+.sidebar-1 h4{
+	text-align:center;
+}
+.sidebar-2{
+	width:19.8%;
+	height:300px;
+	margin-top:-300px;
+	border:1px solid #2314;
+	float:right;
+}
+.sidebar-2 img{
+	height:120px;
+	width:60%;
+}
+.sidebar-2 h4{
+	text-align:center;
+}
+.department{
+	width:100%;
+	height:40px;
+	margin-top:5px;
+	border:1px solid #2314;
+	background-color:red;
+	text-align:center;
+}
+.department h2{
+	font-family:Calibri;
+	color:white;
+	font-size:30px;
+	margin-top:0px;
+}
+.our-dept{
+	overflow:hidden;
+	width:100%;
+	font-family:Calibri;
+	font-size:13px;
+	border:1px solid #2314;
+	background:url(img/3.png) no-repeat;
+	background-size:cover;
+}
+.dept,.dept1,.dept2,.dept3,.dept4,.dept5{
+	float:left;
+	width:26%;
+	border:1px solid #2314;
+	margin:10px 10px 10px 55px;
+	padding-top:20px;
+	text-align:center;
+	background:#fff;
+}
+.dept img,.dept1 img,.dept2 img,.dept3 img,.dept4 img,.dept5 img{
+	height:80px;
+	width:80px;
+	margin:0 auto;
+}
+a,.dept, a,.dept1, a.dept2, a .dept3, a .dept4, a .dept5{
+	text-decoration:none;
+	color:black;
+}
+.dept:hover{
+	background-color:#231;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.dept1:hover{
+	background-color:#412;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.dept2:hover{
+	background-color:#289;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.dept3:hover{
+	background-color:#751;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.dept4:hover{
+	background-color:#695;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.dept5:hover{
+	background-color:#658;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.all-box{
+	overflow:hidden;
+	width:100%;
+	border:1px solid#000;
+	background-color:#9685;
+}
+.box{
+	float:left;
+	width:40%;
+	border:1px solid #2314;
+	margin:10px 10px 10px 60px;
+	background: #fff;
+}
+.box h2{
+	text-align:center;
+	color:red;
+}
+.box:hover{
+	background-color:#2a7e18c2;
+	color:white;
+	-webkit-transition:width 1s;
+	transition:1s;
+}
+.pic{
+	width:100%;
+	border:1px solid #2314;
+	overflow:hidden;
+}
+.pic ul {
+	list-style:none;
+	overflow:hidden;
+}
+.pic ul li img{
+	display:block;
+	margin:0 auto;
+	width:50%;
+}
+.achive{
+	width:100%;
+	border:1px solid #2314;
+	overflow:hidden;
+}
+.achive img{
+	margin:0 auto;
+	display:block;
+}
+.achive h2{
+	color:red;
+	font-family:calibri;
+	font-size:20px;
+	text-align:center;
+}
+.social{
+	overflow:hidden;
+	width:100%;
+	border:1px solid #2314;
+}
+.social img{
+	height:30px;
+	width:30px;
+	margin-left:250px
+}
+.footer{
+	width:100%;
+	border:1px solid #2314;
+	height:30px;
+	background-color:gray;
+	text-align:center;
+}
+.footer h4{
+	color:black;
+	margin-top:5px;
+}
